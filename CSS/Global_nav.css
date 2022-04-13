@@ -84,7 +84,7 @@ main{
  height: 100vh;
  width: 100%;  
 }
-.contener{
+#contener{
     position: relative;
     margin: 50px 0 0 50px ;
     padding: 8px;
@@ -101,7 +101,7 @@ main{
     text-align:justify;
     font-size: 20px;
 }
-.flag_emblom{
+#flag_emblom{
     text-align: center;
     margin-top: 40%;
     display: flex;
@@ -110,16 +110,16 @@ main{
 .flag{
     font-size: 40px;
 }
-.flag_emblom img{
+#flag_emblom img{
     height: 300px;
     width: 300px;
 }
-.second_cintener{
+#second_cintener{
     margin-top: 30px;
     display: flex;
     justify-content: center;
 }
-.second_cintener img{
+#second_cintener img{
     height: 100vh;
     width: 70%;
 }
